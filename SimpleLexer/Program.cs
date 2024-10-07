@@ -1,6 +1,6 @@
-﻿namespace Lexer;
+﻿namespace SimpleLexer;
 
-class Program {
+internal class Program {
 
     public static void Main()
     {

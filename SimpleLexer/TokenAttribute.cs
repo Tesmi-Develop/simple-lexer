@@ -1,4 +1,4 @@
-﻿namespace Lexer;
+﻿namespace SimpleLexer;
 
 [AttributeUsage(AttributeTargets.Class)]
 public class TokenAttribute : Attribute

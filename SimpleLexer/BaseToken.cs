@@ -1,6 +1,6 @@
 ﻿using JetBrains.Annotations;
 
-namespace Lexer;
+namespace SimpleLexer;
 
 [PublicAPI]
 public abstract class BaseToken

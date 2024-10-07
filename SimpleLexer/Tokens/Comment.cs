@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace Lexer.Tokens;
+namespace SimpleLexer.Tokens;
 
 [Token(@"\/\*(\*(?!\/)|[^*])*\*\/")]
 [DebuggerDisplay("{Name}:{Content}")]

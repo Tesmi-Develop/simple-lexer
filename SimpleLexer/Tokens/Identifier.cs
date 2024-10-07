@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace Lexer.Tokens;
+namespace SimpleLexer.Tokens;
 
 [Token("[_a-zA-Z][_a-zA-Z0-9]{0,30}")]
 [DebuggerDisplay("{Name}:{Content}")]
