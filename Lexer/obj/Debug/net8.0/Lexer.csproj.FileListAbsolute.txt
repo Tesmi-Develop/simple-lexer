@@ -1,0 +1,17 @@
+D:\Projects\C#\Lexer\Lexer\bin\Debug\net8.0\Lexer.exe
+D:\Projects\C#\Lexer\Lexer\bin\Debug\net8.0\Lexer.deps.json
+D:\Projects\C#\Lexer\Lexer\bin\Debug\net8.0\Lexer.runtimeconfig.json
+D:\Projects\C#\Lexer\Lexer\bin\Debug\net8.0\Lexer.dll
+D:\Projects\C#\Lexer\Lexer\bin\Debug\net8.0\Lexer.pdb
+D:\Projects\C#\Lexer\Lexer\bin\Debug\net8.0\JetBrains.Annotations.dll
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\Lexer.csproj.AssemblyReference.cache
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\Lexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\Lexer.AssemblyInfoInputs.cache
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\Lexer.AssemblyInfo.cs
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\Lexer.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\Lexer.csproj.Up2Date
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\Lexer.dll
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\refint\Lexer.dll
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\Lexer.pdb
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\Lexer.genruntimeconfig.cache
+D:\Projects\C#\Lexer\Lexer\obj\Debug\net8.0\ref\Lexer.dll

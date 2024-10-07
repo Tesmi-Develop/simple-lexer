@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FEzxAjKHM4gILtgC3hFwVRuWMrQM0HO8Qdr4z18eHfoMY8aU+f7AGTPZCJn/qUh67Pj6iPf1Q+YBlgYND+ObYg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C#\\Lexer\\Lexer\\Lexer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tesmi\\.nuget\\packages\\jetbrains.annotations\\2024.2.0\\jetbrains.annotations.2024.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
